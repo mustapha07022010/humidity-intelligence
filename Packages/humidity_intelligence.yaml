@@ -239,11 +239,3 @@ template:
         state: >
           {% set risk = state_attr('sensor.worst_room_mould', 'risk') %}
           {{ risk in ['Risk', 'Danger'] }}
-
-
-      - name: Mould Danger
-        unique_id: humidity_intelligence_mould_danger
-        device_class: problem
-        state: >
-          {% set risk = state_attr('sensor.worst_room_mould', 'risk') %}
-          {{ risk in ['Risk', 'Danger'] }}
