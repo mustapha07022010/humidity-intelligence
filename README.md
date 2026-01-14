@@ -1,5 +1,7 @@
 # Humidity Intelligence Advanced HACS - Edition
 
+Version v1.1.1
+
 **Smart humidity intelligence for Home Assistant — insights, not just numbers.**
 
 <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/72d0ce73-e8a4-412d-a3c1-570b1048d740" />
@@ -303,8 +305,7 @@ If it helps you understand your building better, a ⭐ or a screenshot in Discus
 
 ---
 
-
-Just say the word.
+![IMG_5368](https://github.com/user-attachments/assets/0211dc10-aa42-4a48-86da-9690813c629c)
 
 
 
